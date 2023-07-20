@@ -1,0 +1,22 @@
+.NotFoundCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.NotFoundImage {
+  margin-bottom: 15px;
+  margin-top: 50px;
+  width: 450px;
+}
+.NotFoundHeading {
+  color: #475569;
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: -10px;
+}
+.NotFoundInfo {
+  color: #64748b;
+  font-size: 18px;
+  font-weight: 400;
+}

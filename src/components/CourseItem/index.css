@@ -1,0 +1,19 @@
+.anchor-link {
+  text-decoration: none;
+}
+.CourseListItem {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  width: 150px;
+  margin-right: 80px;
+  margin-bottom: 50px;
+}
+.CourseLogo {
+  margin-right: 10px;
+}
+.CourseName {
+  color: #475569;
+  font-weight: 500;
+  font-size: 20px;
+}
